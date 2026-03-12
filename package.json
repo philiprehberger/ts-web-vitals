@@ -1,5 +1,5 @@
 {
-  "name": "@philiprehberger/web-vitals",
+  "name": "@philiprehberger/ts-web-vitals",
   "version": "0.1.1",
   "description": "Web Vitals calculation utilities and client error capture",
   "main": "./dist/index.js",
@@ -32,9 +32,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philiprehberger/web-vitals.git"
+    "url": "git+https://github.com/philiprehberger/ts-web-vitals.git"
   },
-  "homepage": "https://github.com/philiprehberger/web-vitals#readme",
-  "bugs": { "url": "https://github.com/philiprehberger/web-vitals/issues" },
+  "homepage": "https://github.com/philiprehberger/ts-web-vitals#readme",
+  "bugs": { "url": "https://github.com/philiprehberger/ts-web-vitals/issues" },
   "engines": { "node": ">=18.0.0" }
 }
